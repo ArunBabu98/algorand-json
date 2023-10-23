@@ -10,13 +10,13 @@ environment:
 
 dependencies:
   # HTTP & REST
-  dio: ^4.0.6
+  dio: ^5.1.1
 
   # JSON
   jsontool: ^1.1.2
 
 dev_dependencies:
   # Testing framework
-  test: ^1.21.3
+  test: ^1.24.7 
 
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.3
